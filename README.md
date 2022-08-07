@@ -72,24 +72,17 @@ Here are some of the features Ombi has:
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/ketsapiwiq">
+            <img src="https://avatars.githubusercontent.com/u/26697460?v=4" width="50;" alt="ketsapiwiq"/>
+            <br />
+            <sub><b>Hadrien</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/tidusjar">
             <img src="https://avatars.githubusercontent.com/u/6642220?v=4" width="50;" alt="tidusjar"/>
             <br />
             <sub><b>Jamie</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Roxedus">
-            <img src="https://avatars.githubusercontent.com/u/7110194?v=4" width="50;" alt="Roxedus"/>
-            <br />
-            <sub><b>Roxedus</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/twanariens">
-            <img src="https://avatars.githubusercontent.com/u/34845004?v=4" width="50;" alt="twanariens"/>
-            <br />
-            <sub><b>Twan Ariens</b></sub>
         </a>
     </td>
     <td align="center">
@@ -104,6 +97,13 @@ Here are some of the features Ombi has:
             <img src="https://avatars.githubusercontent.com/u/34862846?v=4" width="50;" alt="sephrat"/>
             <br />
             <sub><b>Sephrat</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/twanariens">
+            <img src="https://avatars.githubusercontent.com/u/34845004?v=4" width="50;" alt="twanariens"/>
+            <br />
+            <sub><b>Twan Ariens</b></sub>
         </a>
     </td>
     <td align="center">
