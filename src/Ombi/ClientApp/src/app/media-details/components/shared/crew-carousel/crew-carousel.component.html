@@ -15,14 +15,14 @@
 
                     </div>
                     <div class="col-12">
-                        <span *ngIf="item.name"><strong>{{item.name}}</strong></span>
-                        <span *ngIf="item.person"><strong>{{item.person}}</strong></span>
+                        <a *ngIf="item.name" [routerLink]="'/discover/actor/' + item.id"> <strong>{{item.name}}</strong></a>
+                        <a *ngIf="item.person" [routerLink]="'/discover/actor/' + item.id"><strong>{{item.person}}</strong></a>
                     </div>
                     <div class="col-12">
-                        <span *ngIf="item.job"><small>{{item.job}}</small></span>
-                        <span *ngIf="item.department"><small>{{item.position}}</small></span>
-                        <span *ngIf="item.title"><small>{{item.title}}</small></span>
-                        <span *ngIf="item.overview"><small>{{item.overview}}</small></span>
+                        <a *ngIf="item.job" [routerLink]="'/discover/actor/' + item.id"><small>{{item.job}}</small></a>
+                        <a *ngIf="item.department" [routerLink]="'/discover/actor/' + item.id"><small>{{item.position}}</small></a>
+                        <a *ngIf="item.title" [routerLink]="'/discover/actor/' + item.id"><small>{{item.title}}</small></a>
+                        <a *ngIf="item.overview" [routerLink]="'/discover/actor/' + item.id"><small>{{item.overview}}</small></a>
                     </div>
 
                 </div>
